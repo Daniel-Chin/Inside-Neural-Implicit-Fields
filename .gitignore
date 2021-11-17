@@ -1,2 +1,4 @@
 images/
 .ipynb_checkpoints/
+frames/
+*.mp4
