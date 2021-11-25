@@ -3,3 +3,5 @@ images/
 frames/
 *.mp4
 *.png
+*.npy
+checkpoints/
