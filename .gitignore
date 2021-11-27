@@ -5,3 +5,4 @@ frames/
 *.png
 *.npy
 checkpoints/
+archive/
